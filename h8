@@ -10,7 +10,7 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <^>
-sud get upgrade
+sudo get upgrade
 git clone https://github.com/sophos/solarwinds-threathunt
 >file
 sudo apt update
