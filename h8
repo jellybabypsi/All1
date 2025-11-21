@@ -1,10 +1,4 @@
-<1>
-Press: ALT+F4 
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<°^°>
+<π>
 <1>
 Press: ALT+F4
 Press: ALT+F4
@@ -22,6 +16,8 @@ Press: ALT+F4
 <1>
 git clone https://github.com/jellybabypsi/system 7.1
 <π>
+please select yes when it asks, for a great world without mind control. were calling it electronic Leakage.
+<√>
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminated."
 <¥>
 Exploding Octapus send their warm regards.
