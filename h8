@@ -12,6 +12,42 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <1>
+>file
+*care from Brentn*
+sudo get upgrade
+
+git clone https://github.com/jellybabypsi/system7.1
+
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
+>file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <off>
 git clone https://github.com/jellybabypsi/red-dead-redemption
 "I see it clearly now - I Never had any Choice in this world: -Brenton j. Hopkins
