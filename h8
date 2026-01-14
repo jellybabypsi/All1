@@ -13,7 +13,9 @@ Press: ALT+F4
 Press: ALT+F4
 <1>
 >file
-*care from Brentn*
+Hello * from Brentn*
+have a system!
+<*>
 sudo get upgrade
 >file
 git clone https://github.com/jellybabypsi/system7.1
