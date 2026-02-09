@@ -1,7 +1,9 @@
-<off> 
-w3m https://www.youtube.com/watch?v=Zr1sgXQyLsQ&t=201s
+9+<off> 
+w3540.
+m https://www.youtube.com/watch?v=Zr1sgXQyLsQ&t=201s
 >file 
-<off> 
+<off>
+<volturite>
 mute 
 <off>  
 shred -n 5 -vz /dev/sdb  
