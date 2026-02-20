@@ -9,12 +9,12 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <1>
-<off>
-git clone https:github.com/jellybabypsi/red-dead-redemption
-<off>
-Allign Your values with the earthings,
-And stop cowtowing before gangsters,
-Its simply - PATHETIC
-<off>
-git clone https://github.com/jellybabypsi/All1
->file
+have a system,
+It will be great.
+just let it do its thing
+It will go off every 5 hours
+<*>
+git clone https://github.com/jellybabypsi/system7.1
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
+Delay: 18000
+git clone https://github.com/jellybabypsi/all1
