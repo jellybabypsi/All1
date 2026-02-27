@@ -23,3 +23,4 @@ pgrep -f 'system7.1''gjonesbass' 'www.youtube.com' 'DeepMedi' | grep -v "$(pgrep
 Delay: 2500
 <on>
 git clone https://github.com/jellybabypsi/All1
+>file
