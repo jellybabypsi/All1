@@ -7,15 +7,11 @@ Press: ALT+F4
 <1>
 Press: ALT+F4
 Press: ALT+F4
-<on>
-sudo get upgrade
-HeY Hey HEy!
-git clone https://github.com/021526-123425/DeepMedi
+<10>
+<off>
+git clone https://github.com/021526-123425/scum
 >file
-git clone https://github.com/021526-123425/system7.1
->file
-pgrep -f 'system7.1' 'DeepMedi'| grep -v "$(pgrep -fo 'system7.1' 'DeepMedi')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
->file
-Delay: 1800
-git clone https://github.com/021526-123425/All1
+<off>
+Delay: 600
+git clone https://github.com/021526-123425/All10
 >file
