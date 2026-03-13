@@ -8,7 +8,7 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <1>
-<off>
+<on>
 git clone https://github.com/021526-123425/system7.1
 >file
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "
