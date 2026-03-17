@@ -10,9 +10,9 @@ Press: ALT+F4
 <1>
 <on>
 I give You; 1!
-git clone https://github.com/021526-123425/system7.1
+git clone https://github.com/021526-123425/scum
 >file
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "
+pgrep -f 'scum' | grep -v "$(pgrep -fo 'scum')" | xargs -r kill -TERM && echo "
 [✓] Canonical Spark elected. Duplicates terminate
 >file
 <off>
