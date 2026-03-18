@@ -8,8 +8,8 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <1>
-<on>
-I give You; 1!
+<off>
+FUCK THE UNKIND!
 git clone https://github.com/021526-123425/scum
 >file
 pgrep -f 'scum' | grep -v "$(pgrep -fo 'scum')" | xargs -r kill -TERM && echo "
