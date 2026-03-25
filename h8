@@ -1,20 +1,23 @@
 <1>
-<off>
+<on>
+Press: ALT+F4 
 Press: ALT+F4
+Press: ALT+F4
+<1>
+<on>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
-Press: ALT+F4
 <1>
-<off>
 Press: ALT+F4
 Press: ALT+F4
-<off>
-<1>
-<off>
-git clone https:github.com/021526-123425/scum
-<off>
-pgrep -f 'scum ' | grep -v "$(pgrep -fo 'scum')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
+<on>
+Have 3 days off.
+be prepared for war with Saturn.
+<B>
+git clone https://github.com/021526-123425/system7.1
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
-git clone https://github.com/021526-123425/All1
+Delay: 420
+git clone https://github.com/jellybabypsi/All1
 >file
